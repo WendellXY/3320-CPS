@@ -1,6 +1,4 @@
 class Person:
-    def __init__(self):
-        pass
 
     def __init__(self, name: str = 'Unnamed', age: int = 0, weight: float = 0, height: float = 0):
         self.name = name
