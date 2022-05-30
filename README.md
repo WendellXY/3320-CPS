@@ -1,6 +1,6 @@
 # 3320 CPS
 
-> This respoistory will be archived soon
+> **This respoistory is archived**
 
 Group Member
 
