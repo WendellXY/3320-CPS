@@ -1,6 +1,6 @@
 # 3320 CPS
 
-> **This respoistory is archived**
+> **This respoistory is archived and read-only**
 
 Group Member
 
